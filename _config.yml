@@ -13,8 +13,8 @@ name                     : &name "Xinqi Zhou"
 description              : &description "personal description"
 url                      : "https://z-yxin.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/acapage" # the subpath of your site, e.g. "/blog"
-repository               : "acapage"
-teaser                   : "3953273590_704e3899d5_m.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+repository               : "Z-Yxin/acapage"
+teaser                   : "/images/3953273590_704e3899d5_m.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
