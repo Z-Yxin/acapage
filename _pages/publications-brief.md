@@ -52,7 +52,8 @@ Xu, X., Liu, C., Zhou, X., Chen, Y., Gao, Z., Zhou, F., Kou, J., Becker, B<sup>\
 
 Zhou, X., Zimmermann, K., Xin, F., Zhao, W., Derckx, R. T., Sassmannshausen, A., Scheele, D., Hurlemann, R., Weber, B., Kendrick, K. M., & Becker, B. (2019). Cue Reactivity in the Ventral Striatum Characterizes Heavy Cannabis Use, Whereas Reactivity in the Dorsal Striatum Mediates Dependent Use. Biol Psychiatry Cogn Neurosci Neuroimaging, 4(8), 751-762. https://doi.org/10.1016/j.bpsc.2019.04.006
 
-Xin, F., Zhou, F., Zhou, X., Ma, X., Geng, Y., Zhao, W., Yao, S., Dong, D., Biswal, B. B., Kendrick, K. M., & Becker, B. (2018). Oxytocin Modulates the Intrinsic Dynamics Between Attention-Related Large-Scale Networks. Cereb Cortex. https://doi.org/10.1093/cercor/bhy295  
+Xin, F., Zhou, F., Zhou, X., Ma, X., Geng, Y., Zhao, W., Yao, S., Dong, D., Biswal, B. B., Kendrick, K. M., & Becker, B. (2018). Oxytocin Modulates the Intrinsic Dynamics Between Attention-Related Large-Scale Networks. Cereb Cortex. https://doi.org/10.1093/cercor/bhy295
+
 Zhou, X., & Lei, X. (2018). Wandering Minds with Wandering Brain Networks. Neurosci Bull, 34(6), 1017-1028. https://doi.org/10.1007/s12264-018-0278-7
 
 Zhou, X., Wu, T., Yu, J., & Lei, X. (2017). Sleep Deprivation Makes the Young Brain Resemble the Elderly Brain: A Large-Scale Brain Networks Study. Brain Connect, 7(1), 58-68. https://doi.org/10.1089/brain.2016.0452  
